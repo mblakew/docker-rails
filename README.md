@@ -1,4 +1,4 @@
-# **docker-rails**
+# **Docker Rails**
 
 The **Dockerfile** contains ruleset that docker will follow (found on [docker hub](https://hub.docker.com/)). We pull a pre-built ruby setup in this case. 
 
